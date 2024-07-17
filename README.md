@@ -1,8 +1,20 @@
-# React + Vite
+# School of Life Website - Navigation Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project features a responsive navigation component for the School of Life website. Built with React and styled using Tailwind CSS, it provides a user-friendly interface for navigating the school's website on both desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Responsive design that adapts to various screen sizes
+- Desktop menu with dropdown capabilities for sub-menus
+- Mobile-friendly drawer menu for smaller screens
+- Dynamic rendering of menu items from a configuration array
+- Smooth transitions and hover effects for enhanced user experience
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- React Router for navigation
+- React
